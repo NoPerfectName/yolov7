@@ -1,0 +1,7 @@
+train: /content/gdrive/MyDrive/Colab Notebooks/datasets/images/train # train images
+val: /content/gdrive/MyDrive/Colab Notebooks/datasets/images/test # val images
+#test: ./dataset/score/images/test # test images (optional)
+
+# Classes
+nc: 6  # number of classes
+names: ['shoes','pets','babies','Tech', 'Games', 'Beauty']  # class names
